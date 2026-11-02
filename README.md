@@ -15,13 +15,13 @@
 <!-- NEON BADGES (SOCIALS & PORTFOLIO) -->
 <p align="center">
   <a href="https://satriaps.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white&labelColor=B721FF" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Website-satriaps.my.id-b721ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
   <a href="mailto:satriaprakasaa19@gmail.com">
-    <img src="https://img.shields.io/badge/PING_REQUEST-0A0A0F?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=21D4FD" alt="Email">
+    <img src="https://img.shields.io/badge/Email-satriaprakasaa19%40gmail.com-21d4fd?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email">
   </a>
   <a href="https://linkedin.com/in/satriaprakasaa" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Satria_Prakasa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
